@@ -25,7 +25,6 @@ namespace UserAndDataControl
     public sealed partial class MainPage : Page
     {
         private List<Icon> Icons;
-        //private List<Contact> Contacts;
         private ObservableCollection<Contact> Contacts;
 
         public MainPage()
